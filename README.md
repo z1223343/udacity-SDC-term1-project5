@@ -12,13 +12,13 @@
 ---
 
 [//]: # (Image References)
-[image1]: ./examples/car_not_car.png
-[image2]: ./examples/HOG_example.jpg
-[image3]: ./examples/sliding_windows.jpg
-[image4]: ./examples/sliding_window.jpg
-[image5]: ./examples/bboxes_and_heat.png
-[image6]: ./examples/labels_map.png
-[image7]: ./examples/output_bboxes.png
+[image1]: ./output_images/raw_image.png
+[image2]: ./output_images/hog_image.png
+[image3]: ./output_images/vehicle_detect.png
+[image4]: ./output_images/reduced_image.png
+[image5]: ./output_images/vehicle_detect2.png
+[image6]: ./output_images/normaliztion.png
+
 [video1]: ./project_video.mp4
 
 ## Rubric Points
