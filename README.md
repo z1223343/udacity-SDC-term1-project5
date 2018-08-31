@@ -17,7 +17,7 @@
 [image3]: ./output_images/vehicle_detect.png
 [image4]: ./output_images/reduced_image.png
 [image5]: ./output_images/vehicle_detect2.png
-[image6]: ./output_images/normaliztion.png
+[image6]: ./output_images/normalization.png
 
 [video1]: ./project_video.mp4
 
